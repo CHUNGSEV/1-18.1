@@ -57,7 +57,12 @@ LUCI_LANG.zh_Hant=繁體中文 (Chinese Traditional)
 #LUCI_LANG_END
 
 # Submenu titles
-LUCI_MENU.app=1. Applications
+LUCI_MENU.col=1. Collections
+LUCI_MENU.mod=2. Modules
+LUCI_MENU.app=3. Applications
+LUCI_MENU.theme=4. Themes
+LUCI_MENU.proto=5. Protocols
+LUCI_MENU.lib=6. Libraries
 
 # Language aliases
 LUCI_LC_ALIAS.bn_BD=bn
