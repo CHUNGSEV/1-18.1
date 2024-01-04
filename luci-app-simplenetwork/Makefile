@@ -20,7 +20,7 @@ PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)
 include $(INCLUDE_DIR)/package.mk
 
 define Package/luci-app-simplenetwork
-	CATEGORY:=X
+	CATEGORY:=passwall2
 	SUBMENU:=Configuration SimpleNetwork Support
 	TITLE:=LuCI Support for simplenetwork
 	PKGARCH:=all
