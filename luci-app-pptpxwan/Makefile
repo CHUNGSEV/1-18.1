@@ -20,7 +20,7 @@ PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)
 include $(INCLUDE_DIR)/package.mk
 
 define Package/luci-app-pptpxwan
-	CATEGORY:=X
+	CATEGORY:=passwall2
 	SUBMENU:=PPTP XWAN Support
 	TITLE:=LuCI Support for pptpxwan
 	PKGARCH:=all
