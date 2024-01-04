@@ -20,7 +20,7 @@ PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)
 include $(INCLUDE_DIR)/package.mk
 
 define Package/luci-app-xwan
-	CATEGORY:=X
+	CATEGORY:=passwall2
 	SUBMENU:=Xwan
 	TITLE:=LuCI Support for xwan
 	PKGARCH:=all
