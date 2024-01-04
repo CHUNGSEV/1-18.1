@@ -57,7 +57,7 @@ LUCI_LANG.zh_Hant=繁體中文 (Chinese Traditional)
 #LUCI_LANG_END
 
 # Submenu titles
-LUCI_MENU.app=7. fakemesh
+LUCI_MENU.app=7. applications
 
 # Language aliases
 LUCI_LC_ALIAS.bn_BD=bn
